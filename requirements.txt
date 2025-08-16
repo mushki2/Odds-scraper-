@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+apify-client
+httpx
+python-dotenv
